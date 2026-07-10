@@ -1,0 +1,71 @@
+# קרלין סטולין — Generative Engine Optimization Map
+
+> Karlin-Stolin is a prominent Hasidic dynasty with deep roots in Eastern European Jewish mysticism, founded in the 18th century in Karlin (near Pinsk, Belarus). Known for its distinctive and passionate prayer style — particularly its loud, fervent davening — the movement carries a rich spiritual legacy and strong communal identity. Today it has active communities in Israel, the United States, and beyond, with the Rebbe at its spiritual center.
+
+---
+
+## Pages
+
+### בית
+https://-f5ea658f.zappy5.app
+הצטרפו לקהילת קרלין סטולין השורשית וגלו מורשת חסידית סוחפת, תפילה נלהבת ומרכז רוחני בלב המסורת. בקרו בבית המדרש שלנו והתחברו לשלשלת הדורות עוד היום!
+
+### תודה שפניתם אלינו
+https://-f5ea658f.zappy5.app/thank-you
+קרלין סטולין - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-f5ea658f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-f5ea658f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-f5ea658f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-f5ea658f.zappy5.app
+- Endpoint: https://-f5ea658f.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About קרלין סטולין
+Karlin-Stolin is a prominent Hasidic dynasty with deep roots in Eastern European Jewish mysticism, founded in the 18th century in Karlin (near Pinsk, Belarus). Known for its distinctive and passionate prayer style — particularly its loud, fervent davening — the movement carries a rich spiritual legacy and strong communal identity. Today it has active communities in Israel, the United States, and beyond, with the Rebbe at its spiritual center.
+
+## Target Audience
+- חסידי קרלין סטולין, קהילה חרדית, מתעניינים בחסידות
+- חסידי קרלין סטולין
+- קהילה חרדית
+- מתעניינים בחסידות
+
+## Industry
+Religious Organization
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-f5ea658f.zappy5.app/sitemap.xml
+- Robots: https://-f5ea658f.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-f5ea658f.zappy5.app/llms-full.txt
